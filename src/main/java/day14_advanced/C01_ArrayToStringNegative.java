@@ -1,4 +1,4 @@
-package day_14advanced;
+package day14_advanced;
 
 import java.util.Arrays;
 

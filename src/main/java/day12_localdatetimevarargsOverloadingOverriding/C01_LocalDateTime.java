@@ -1,4 +1,4 @@
-package day_12localdatetimevarargsOverloadingOverriding;
+package day12_localdatetimevarargsOverloadingOverriding;
 
 import java.util.Scanner;
 

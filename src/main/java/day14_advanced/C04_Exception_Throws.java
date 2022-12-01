@@ -1,4 +1,4 @@
-package day_14advanced;
+package day14_advanced;
 
 public class C04_Exception_Throws {
     /*

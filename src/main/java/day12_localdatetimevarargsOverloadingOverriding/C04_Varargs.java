@@ -1,4 +1,4 @@
-package day_12localdatetimevarargsOverloadingOverriding;
+package day12_localdatetimevarargsOverloadingOverriding;
 
 public class C04_Varargs {
     public static void main(String[] args) {
